@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - prints the alpabet in lowercase and then in UPPERCASE
- * Return: 0
+ * main - prints the alphabet in lowercase, and then in uppercase
+ *
+ * Return:0 if succesful
  */
 int main(void)
 {
@@ -13,7 +14,7 @@ int main(void)
 	{
 		putchar(var);
 	}
-	for (var1 = 'A'; var1 <= 'Z'; var++)
+	for (var1 = 'A'; var1 <= 'Z'; var1++)
 	{
 		putchar(var1);
 	}
