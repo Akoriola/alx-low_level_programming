@@ -1,1 +1,1 @@
-startting c programming
+argc,argv
